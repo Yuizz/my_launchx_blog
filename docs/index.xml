@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://yuizz.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yuizz.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ni ruta a traves de Launch X</title>
+      <link>https://yuizz.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuizz.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>A traves de Launch X he aprendido a desarrollar mas mis habilidades de control de versiones, a comprender el desarrollo de software desde la raiz, desde ser un desarrollador web y no solo un programador web, me encantó que se viera esta parte y no solo pasar automaticamente hasta escribir código.
+Mis cosas favoritas fueron:
+ Aprender a ser un desarrollador web y no solo un programador web. Aprender VUE Js, una tecnología que no habia practicado hasta entonces.</description>
+    </item>
+    
     <item>
       <title>La cultura de un Desarroll@dor de software</title>
       <link>https://yuizz.github.io/my_launchx_blog/posts/intro/</link>
